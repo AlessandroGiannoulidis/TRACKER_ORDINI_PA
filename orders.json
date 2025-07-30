@@ -1,5 +1,45 @@
 {
-  "timestamp": "2025-07-30T12:50:21.093Z",
+  "timestamp": "2025-07-30T12:52:15.458Z",
   "version": "1.0",
-  "orders": []
+  "orders": [
+    {
+      "ente": "COMUNE DI SIAK",
+      "mepa": "SI",
+      "tipoProdotto": "licenza",
+      "fasciaPopolazione": "10K",
+      "tabletExtra": 0,
+      "cig": "B1CD0A1234",
+      "determina": "1 del 30/07/2025",
+      "dataOrdine": "2025-07-31",
+      "durata": 3,
+      "durataAnni": 3,
+      "durataMesi": 0,
+      "referente": "Yuri Merli",
+      "stato": "Attivo",
+      "note": "",
+      "fatture": [
+        {
+          "numero": 1,
+          "dataScadenza": "2025-07-31",
+          "periodo": "Acquisto tablet (1) + 1° anno licenza",
+          "importo": 2800,
+          "fatturata": false
+        },
+        {
+          "numero": 2,
+          "dataScadenza": "2026-07-31",
+          "periodo": "2° anno licenza",
+          "importo": 1800,
+          "fatturata": false
+        },
+        {
+          "numero": 3,
+          "dataScadenza": "2027-07-31",
+          "periodo": "3° anno licenza",
+          "importo": 1800,
+          "fatturata": false
+        }
+      ]
+    }
+  ]
 }
