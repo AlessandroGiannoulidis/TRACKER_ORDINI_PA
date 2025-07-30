@@ -931,5 +931,18 @@ window.addEventListener('beforeunload', function() {
     if (orders.length > 0) saveData();
 });
 </script>
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('sw.js').then(function(registration) {
+      // Success
+      console.log('ServiceWorker registration successful with scope: ', registration.scope);
+    }, function(error) {
+      // Fail
+      console.log('ServiceWorker registration failed: ', error);
+    });
+  });
+}
+</script>        
 </body>
 </html>
