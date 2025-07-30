@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-30T12:55:39.648Z",
+  "timestamp": "2025-07-30T12:55:41.240Z",
   "version": "1.0",
   "orders": [
     {
@@ -21,21 +21,21 @@
         {
           "numero": 1,
           "dataScadenza": "2025-07-31",
-          "periodo": "Acquisto tablet (1) + 1Â° anno licenza",
+          "periodo": "Acquisto tablet (1) + 1° anno licenza",
           "importo": 2800,
           "fatturata": false
         },
         {
           "numero": 2,
           "dataScadenza": "2026-07-31",
-          "periodo": "2Â° anno licenza",
+          "periodo": "2° anno licenza",
           "importo": 1800,
           "fatturata": false
         },
         {
           "numero": 3,
           "dataScadenza": "2027-07-31",
-          "periodo": "3Â° anno licenza",
+          "periodo": "3° anno licenza",
           "importo": 1800,
           "fatturata": false
         }
