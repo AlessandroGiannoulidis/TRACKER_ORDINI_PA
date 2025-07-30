@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-30T13:02:45.144Z",
+  "timestamp": "2025-07-30T13:03:00.033Z",
   "version": "1.0",
   "orders": [
     {
@@ -30,7 +30,7 @@
           "dataScadenza": "2026-07-31",
           "periodo": "2° anno licenza",
           "importo": 1800,
-          "fatturata": false
+          "fatturata": true
         },
         {
           "numero": 3,
