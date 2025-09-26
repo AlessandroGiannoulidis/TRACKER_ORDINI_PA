@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-26T07:55:09.539Z",
+  "timestamp": "2025-09-26T07:57:01.589Z",
   "version": "1.0",
   "orders": [
     {
@@ -37,6 +37,45 @@
           "dataScadenza": "2027-07-31",
           "periodo": "3Â° anno licenza",
           "importo": 1800,
+          "fatturata": false
+        }
+      ]
+    },
+    {
+      "ente": "Comune di Lombardia",
+      "mepa": "SI",
+      "tipoProdotto": "noleggio",
+      "fasciaPopolazione": "50K",
+      "tabletExtra": 2,
+      "cig": "54544524",
+      "determina": "44",
+      "dataOrdine": "2025-09-25",
+      "durata": 3,
+      "durataAnni": 3,
+      "durataMesi": 0,
+      "referente": "Ioannis",
+      "stato": "Attivo",
+      "note": "Sono tutti froci",
+      "fatture": [
+        {
+          "numero": 1,
+          "dataScadenza": "2025-09-25",
+          "periodo": "Canone annuale noleggio",
+          "importo": 4500,
+          "fatturata": false
+        },
+        {
+          "numero": 2,
+          "dataScadenza": "2026-09-25",
+          "periodo": "2° anno noleggio",
+          "importo": 4500,
+          "fatturata": false
+        },
+        {
+          "numero": 3,
+          "dataScadenza": "2027-09-25",
+          "periodo": "3° anno noleggio",
+          "importo": 4500,
           "fatturata": false
         }
       ]
